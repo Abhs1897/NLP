@@ -1,5 +1,3 @@
-Sure, here's an example of what a README file for NLP tasks and learning might look like:
-
 # Natural Language Processing (NLP) Tasks and Learning
 
 ## Introduction
