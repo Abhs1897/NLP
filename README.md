@@ -19,7 +19,7 @@ NLP is a subfield of artificial intelligence that focuses on the interaction bet
 To get started with this repository, follow these steps:
 1. Clone the repository to your local machine.
    ```bash
-   git clone https://github.com/username/NLP-tasks-and-learning.git
+   git clone https://github.com/Abhs1897/NLP-tasks-and-learning.git
    ```
    
 2. Explore the codebase and resources provided.
